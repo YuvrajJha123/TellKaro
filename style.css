@@ -1,0 +1,15 @@
+.customuwuh1{
+  font-size: 45.23px;
+  text-align: center;
+  /* padding-bottom: px; */
+}
+.customlinkjod{
+  cursor: pointer;
+}
+.customlinkjod:hover{
+  color: purple;
+  
+  /* font-size: 20px; */
+  /* animation: ease-in 12s ease-out; */
+}
+/* https://source.unsplash.com/random/1200x500/?coding */
